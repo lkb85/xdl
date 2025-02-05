@@ -37,7 +37,7 @@ type Metadata = {
 };
 
 /**
- * If the `eas` flag is true, the stucture of the outputDir will be:
+ * If the `eas` flag is true, the structure of the outputDir will be:
 ├── assets
 │   └── *
 ├── bundles

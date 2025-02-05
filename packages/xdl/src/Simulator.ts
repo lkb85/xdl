@@ -35,7 +35,7 @@ export function isPlatformSupported() {
 }
 
 /**
- * Ensure Xcode is installed an recent enough to be used with Expo.
+ * Ensure Xcode is installed and recent enough to be used with Expo.
  *
  * @return true when Xcode is installed, false when the process should end.
  */
